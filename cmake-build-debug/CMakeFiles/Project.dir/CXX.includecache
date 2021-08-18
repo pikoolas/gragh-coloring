@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/giannicito/Documents/SDP/Course Material/project/gragh-coloring/sequential_greedy.cpp
+iostream
+-
+list
+-
+fstream
+-
+chrono
+-
+sstream
+-
+
